@@ -2,6 +2,6 @@
 
 """Top-level package for pyrmx."""
 
-__author__ = """Ziliang Che"""
+__author__ = """Z. Che"""
 __email__ = 'cheziliang@gmail.com'
 __version__ = '0.1.0'
